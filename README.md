@@ -1,2 +1,2 @@
-# Hallo_World-in-c
-First-code in C
+# Hello_World-in-c
+First code in C
